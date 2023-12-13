@@ -6,6 +6,18 @@ Welcome to the Simple Weather App project!
 
 - Android Studio installed
 - OpenWeatherMap API key (see [API Key](#api-key))
+
+  ## Demo
+-Insert gif or link to demo
+-Video link: https://drive.google.com/file/d/1uW9wq3ahnyHdb8g1xSEGkIQQu1LW6wo2/view?usp=drivesdk
+
+  ## ScreenShots
+#Here, are the splash screen,home screen, and HomeScreen (location Changed) of the app.
+<p align="left">
+<img src="./Splash%20Screen.jpeg" width="250" height="450">
+<img src="./Home%20Screen%20(Location%20Change%20Manually).jpeg" width="250" height="450">
+<img src="./Home%20Screen%20(default%20address).jpeg" width="250" height="450">
+</p>
   
 
 
