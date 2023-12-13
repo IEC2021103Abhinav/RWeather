@@ -2,6 +2,12 @@
 
 Welcome to the Simple Weather App project!
 
+### Prerequisites
+
+- Android Studio installed
+- OpenWeatherMap API key (see [API Key](#api-key))
+  
+
 
 ##Features
 - **Current Weather:** View real-time information on temperature, humidity, wind speed, and direction at your selected location.
@@ -15,38 +21,9 @@ Welcome to the Simple Weather App project!
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![OpenWeather](https://img.shields.io/badge/openweathermap.org/themes/openweathermap/assets/img/openweather-negative-logo-RGB.png)
-##ScreenShots
-#Here, are the splash screen,home screen, and registration screen of the app.
-<p align="left">
-<img src="./assets/splash.jpeg" width="250" height="450">
-<img src="./assets/home.jpeg" width="250" height="450">
-<img src="./assets/registration.jpeg" width="250" height="450">
-</p>
-#Here, are the login Screen, and forgot the password of the app.
-<p align="left">
-<img src="./assets/login.jpeg" width="250" height="450">
-<img src="./assets/forgot.jpeg" width="250" height="450">
-</p>
-#Here, are the dashboardUser, and dashboardAdmin the password of the app, which contain all the different categories and search option.
-<p align="left">
-<img src="./assets/login.jpeg" width="250" height="450">
-<img src="./assets/forgot.jpeg" width="250" height="450">
-</p>
-#Here,Admin have many features like adding new category, uploading new book , deleting books,category.
-<p align="left">
-<img src="./assets/newCategory.jpeg" width="250" height="450">
-<img src="./assets/editCategory.jpeg" width="250" height="450">
-</p>
-#Here ,User have also may features like add to favourite ,comment on the books, read the book and download .
-<p align="left">
-<img src="./assets/favourite.jpeg" width="250" height="450">
-<img src="./assets/comment.jpeg" width="250" height="450">
-</p>
-#In this user have also an option to edit your profile and it contains all the info about favourite books , email verified ,email and other things also.
-<p align="left">
-<img src="./assets/profile.jpeg" width="250" height="450">
-</p>
+- Lottie Animation
+- Retrofit
+
 
 ## Color Reference
 
@@ -70,8 +47,10 @@ I'm a Btech student of IIIT Allahabad. I have currently learned Android developm
 
 
 ## Installation
-download the apk from my github repository.
-for code you can use git clone~.
+. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/WeatherApp.git
     
 
 
